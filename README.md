@@ -1,51 +1,131 @@
 # Hi, I'm Pranav 👋
 
 **Senior Frontend Engineer** — React · TypeScript · Design Systems · Performance · AI Product
-Bengaluru, India
+📍 Bengaluru, India
 
-I build scalable React and TypeScript applications for enterprise SaaS. 8+ years across Europe and India, most recently leading frontend architecture at [Zenloop](https://www.zenloop.com) in Berlin.
+8+ years building scalable React and TypeScript applications for enterprise SaaS across Europe and India. I work at the intersection of design systems, performance engineering, accessibility, and AI-powered product features. Track record: Core Web Vitals improved 80%, manual workflows cut 60%, frontend standards and mentoring across multiple product teams.
+
+Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/ember-elements)** — a TypeScript UI toolkit with 100+ stars.
 
 ---
 
 ### What I do
 
-- **Design systems** — component libraries, design tokens, typed public APIs, versioned releases
-- **Performance engineering** — Core Web Vitals, code splitting, bundle optimisation, profiling
+- **Design systems** — component libraries, design tokens, API design for components, versioning & documentation
+- **Performance engineering** — Core Web Vitals, profiling, code splitting, lazy loading, bundle optimisation
 - **Accessibility** — WCAG 2.1 AA, keyboard and screen-reader support, audits
 - **AI product work** — LLM-backed features on OpenAI GPT APIs, prompt design
-- **Technical leadership** — frontend standards, code review culture, mentoring
-
-### Selected impact
-
-- Shipped an AI topic- and keyword-analysis system on OpenAI GPT APIs — **60% less manual analysis time**, 3× account coverage per month
-- **80% faster UI** via route-level code splitting and lazy loading, moving Core Web Vitals into top-quartile
-- Built a 15+ module React component library used by three squads — **40% faster feature delivery**
-- Architected a 20+ component UI toolkit adopted across 3 enterprise product lines
-- Cut deployment time from 2 hours to 20 minutes with TDD and automated CI/CD
-
-### Open source
-
-**[Ember Elements](https://github.com/ember-elements/ember-elements)** — creator & maintainer
-A TypeScript component library for Ember.js built on Blueprint, engineered for data-dense enterprise interfaces. Accessible, reusable components with typed public APIs. **100+ stars**, adopted by several enterprise teams.
+- **Technical leadership** — frontend architecture, engineering standards, developer experience, mentoring
 
 ---
 
-### Tech
+## Experience
+
+### Zenloop GmbH · Berlin, Germany
+**Senior Frontend Engineer** · Jul 2022 – Mar 2026
+<sub>Customer-experience analytics platform for Fortune 500 clients · React, TypeScript · three delivery squads</sub>
+
+- Led frontend architecture, feature delivery and code review across three squads, refactoring core React and TypeScript modules and partnering with product, design and backend engineers to ship customer-facing analytics features
+- Shipped an AI topic- and keyword-analysis system on OpenAI GPT APIs that cut manual analysis time by **60%**, enabling customer success teams to cover **3× more accounts** per month
+- Improved UI performance **80%** through route-level code splitting, lazy loading and bundle optimisation, moving Core Web Vitals into top-quartile scores for the platform
+- Built and maintained a **15+ module** React component library consumed by three squads, cutting average feature development time by **40%**
+- Drove cross-team integration defects down **30%** by establishing the shared code review standard and running regular pair-programming sessions
+
+### Mitsogo (Hexnode UEM) · India
+**Senior Software Engineer, Front End** · Sep 2021 – Jun 2022
+
+- Architected a **20+ component** UI toolkit adopted across 3 enterprise product lines, standardizing UI patterns between design and engineering
+- Halved onboarding time for new frontend developers by authoring the team's coding standards and component documentation during rapid headcount growth
+- Mentored 5 junior engineers on component architecture, testing and accessibility — 3 promoted within a year
+
+**Software Engineer, Front End** · Jun 2019 – Sep 2021
+
+- Cut deployment time from **2 hours to 20 minutes** by introducing TDD and automated CI/CD pipelines with Jest and Cypress
+- Delivered WCAG 2.1-compliant, cross-browser responsive dashboards that qualified the product for accessibility-regulated markets
+- Reduced post-launch bug reports **45%** by running stakeholder UI/UX validation sessions ahead of build
+
+### Mediapp · India
+**Junior Front-End Developer** · Sep 2017 – Aug 2018
+
+- Delivered the admin panel for India's first B2B pharmaceutical platform — **10,000+ users** across **500+ pharmacies** on launch day
+- Engineered Firebase-backed authentication with role-based access control (RBAC), keeping multi-tenant pharmacy data isolated
+- Cut order processing time **35%** with real-time data grids and a task scheduler in Ember.js
+
+---
+
+## Open Source
+
+### [Ember Elements](https://github.com/ember-elements/ember-elements) · Creator & Maintainer · 2021 – 2023
+
+An open-source TypeScript component library for Ember.js, built on Blueprint and engineered for data-dense enterprise interfaces — accessible, reusable components with typed public APIs.
+
+- Designed the component API surface and TypeScript types, authored the usage documentation, and ran the versioned npm release process end to end
+- Grew to **100+ GitHub stars** with adoption by several enterprise teams, supporting users through issue triage and community requests
+
+---
+
+## Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Ember](https://img.shields.io/badge/Ember.js-E04E39?style=flat&logo=emberdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<sub>Also: Zustand · MobX · SCSS · CSS-in-JS · OpenAI APIs · REST · Webpack · ESLint · CI/CD</sub>
+<details>
+<summary><b>Full skill breakdown</b></summary>
+
+<br>
+
+| Area | |
+|---|---|
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend** | React.js, React Hooks, custom hooks, Next.js, Ember.js, SPAs, component architecture, reusable components, responsive & data-dense UI |
+| **Design Systems** | Component libraries, design tokens, API design for components, versioning & documentation |
+| **State Management** | Redux, Zustand, MobX, React Context, Ember Data |
+| **Styling** | Tailwind CSS, SCSS, CSS-in-JS, responsive layout |
+| **AI & LLM** | OpenAI GPT APIs, prompt design, LLM-backed product features |
+| **Backend & APIs** | Node.js, RESTful APIs, Firebase (Authentication, RBAC, real-time data) |
+| **Testing & Quality** | Jest, Cypress, QUnit, TDD, cross-browser testing, code review standards |
+| **Performance** | Core Web Vitals, performance profiling, Lighthouse, code splitting, lazy loading, bundle optimisation |
+| **Accessibility** | WCAG 2.1 AA, keyboard and screen-reader support, accessibility audits |
+| **Tooling & CI/CD** | Git, Webpack, Vite, npm, ESLint, Prettier, CI/CD pipelines, Figma |
+| **Ways of Working** | Technical leadership, frontend architecture, engineering standards, developer experience, mentoring, cross-team collaboration, Agile |
+
+</details>
+
+---
+
+<details>
+<summary><b>Education, achievements & publications</b></summary>
+
+<br>
+
+**Education**
+- **M.C.A.**, Computer Application · Amrita Vishwa Vidyapeetham, India · 2015 – 2017
+- **B.C.A.**, Computer Application · Amrita Vishwa Vidyapeetham, India · 2012 – 2015
+
+**Achievements**
+- Top 30% nationally in the All India ICPC Spot Coding Competition among 5,000+ participants
+- Advanced to elimination rounds of CodeChef SnackDown
+
+**Publications**
+- "3D Structural Prediction with Docking for Five Stages of Lymphoma" — IEEE International Conference
+- "Comparative Sequence Analysis and 3D Structure Prediction Using Pairwise and Needleman-Wunsch" — IEEE International Conference
+- "Novel Approach Using LCMSQ Algorithm for Identifying Lymphoma Stages" — International Journal of Pharma and Bio Sciences (IJPBS)
+
+</details>
 
 ---
 
@@ -57,7 +137,7 @@ I also design and build fast, SEO-friendly marketing sites and templates for cli
 
 ### Reach me
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pranavvenkitesan@gmail.com)
+[![Email](https://img.shields.io/badge/pranavvenkitesan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pranavvenkitesan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-venkidesan)
 
 Open to senior and lead frontend roles, and to selected freelance work.
