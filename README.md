@@ -4,6 +4,15 @@
 
 8+ years building scalable React and TypeScript applications for enterprise SaaS across Europe and India. I work at the intersection of design systems, performance engineering, accessibility, and AI-powered product features. Track record: Core Web Vitals improved 80%, manual workflows cut 60%, frontend standards and mentoring across multiple product teams.
 
+Beyond product roles, I take client work end to end — full-stack web apps, iOS & Android apps, and marketing sites that load fast and rank well.
+
+[![Email](https://img.shields.io/badge/pranavvenkitesan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:pranavvenkitesan@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_97431_56449-0F9D58?style=for-the-badge&logo=googlevoice&logoColor=white&labelColor=0D1117)](tel:+919743156449)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/919743156449)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/pranav-venkidesan)
+
+> [!IMPORTANT]
+> 📍 **Bengaluru, India** — open to remote and hybrid · 💼 **Available** for senior/lead frontend roles and freelance projects · ⏱️ Usually replies within a day
 
 ---
 
@@ -213,4 +222,4 @@ Alongside senior frontend roles, I take on end-to-end client work — design thr
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919743156449)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-venkidesan)
 
-Open to senior and lead frontend roles, and to selected freelance work.
+Got a project or a role in mind? Email or WhatsApp is fastest — happy to talk through scope before you commit to anything.
