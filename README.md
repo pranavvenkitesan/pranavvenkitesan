@@ -5,7 +5,7 @@
 
 8+ years building scalable React and TypeScript applications for enterprise SaaS across Europe and India. I work at the intersection of design systems, performance engineering, accessibility, and AI-powered product features. Track record: Core Web Vitals improved 80%, manual workflows cut 60%, frontend standards and mentoring across multiple product teams.
 
-Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/ember-elements)** — a TypeScript UI toolkit with 100+ stars.
+Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/ember-elements)** — a TypeScript UI toolkit with 56 stars.
 
 ---
 
@@ -60,7 +60,7 @@ Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/e
 An open-source TypeScript component library for Ember.js, built on Blueprint and engineered for data-dense enterprise interfaces — accessible, reusable components with typed public APIs.
 
 - Designed the component API surface and TypeScript types, authored the usage documentation, and ran the versioned npm release process end to end
-- Grew to **100+ GitHub stars** with adoption by several enterprise teams, supporting users through issue triage and community requests
+- Grew to **56 GitHub stars** with adoption by several enterprise teams, supporting users through issue triage and community requests
 
 🔗 [Docs & demo](https://ember-elements.github.io/ember-elements/) · [Storybook](https://64f3486d17c24063fe86105d-zslyevuhcj.chromatic.com/) · `TypeScript` `Ember.js` `Blueprint` `Storybook` `npm`
 
@@ -79,6 +79,15 @@ Client sites, templates and product work — built for speed, semantic HTML and 
 | **Amaterasu Health** | Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/amaterasu-health) · [Demo](https://pranavvenkitesan.github.io/amaterasu-health/) |
 | **Liag** | Interior design studio site — editorial layout, image-led project showcase. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/liag-interior-design-studio) |
 | **Hydroflow** | Brand site for a beverage product — bold typography, single-scroll narrative. | `HTML` `CSS` | [Code](https://github.com/pranavvenkitesan/hydro-) · [Demo](https://pranavvenkitesan.github.io/hydro-/) |
+
+### 🔒 Private work
+
+Source is private, but these are live — descriptions and demos below.
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| 🔒 **Tarabyaji** | Full-stack online jewellery store. Storefront with collections, variant swatches, wishlist, compare, cart with free-shipping thresholds and Razorpay checkout — plus a separate admin panel for catalogue, orders and analytics. | `Next.js` `React` `Redux Toolkit` `SCSS` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary` `Recharts` | [Live site](https://jewellery-online-store-fronend.vercel.app/) · Private repo |
+| 🔒 **ReplyAI** | AI growth and communication platform for local businesses (a KavalaTech product). Replaces six disconnected tools with one workspace: AI-drafted Google review replies, WhatsApp enquiry threads, bookings, marketing content and local SEO monitoring — owner approves before anything publishes. | `React` `TypeScript` `Node.js` `OpenAI API` | [Product page](https://pranavvenkitesan.github.io/dubase-studio/products/replyai.html) · Private repo |
 
 ---
 
