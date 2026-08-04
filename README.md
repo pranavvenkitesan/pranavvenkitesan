@@ -163,7 +163,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 | **Testing & Quality** | Jest, Cypress, QUnit, TDD, cross-browser testing, code review standards |
 | **Performance** | Core Web Vitals, performance profiling, Lighthouse, code splitting, lazy loading, bundle optimisation |
 | **Accessibility** | WCAG 2.1 AA, keyboard and screen-reader support, accessibility audits |
-| **Tooling & CI/CD** | Git, Webpack, Vite, npm, ESLint, Prettier, CI/CD pipelines, Figma |
+| **Tooling & CI/CD** | Git, Webpack, Vite, npm, ESLint, Prettier, Storybook, CI/CD pipelines, Figma |
 | **Ways of Working** | Technical leadership, frontend architecture, engineering standards, developer experience, mentoring, cross-team collaboration, Agile |
 
 </details>
