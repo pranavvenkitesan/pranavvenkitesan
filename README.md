@@ -5,7 +5,6 @@
 
 8+ years building scalable React and TypeScript applications for enterprise SaaS across Europe and India. I work at the intersection of design systems, performance engineering, accessibility, and AI-powered product features. Track record: Core Web Vitals improved 80%, manual workflows cut 60%, frontend standards and mentoring across multiple product teams.
 
-Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/ember-elements)** — a TypeScript UI toolkit with 56 stars.
 
 ---
 
@@ -66,9 +65,12 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 ---
 
-## Projects
+![Projects](https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-Live%20demos%20%C2%B7%20full%20stack%20%C2%B7%20client%20work-0A66C2?style=for-the-badge&labelColor=0D1117)
 
-Client sites, templates and product work — built for speed, semantic HTML and strong Core Web Vitals.
+> [!TIP]
+> **Every project below is live.** Client sites, product work and open-source tooling — built for speed, semantic HTML and strong Core Web Vitals.
+
+### 🌐 Public repositories
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
@@ -82,7 +84,8 @@ Client sites, templates and product work — built for speed, semantic HTML and 
 
 ### 🔒 Private work
 
-Source is private, but these are live — descriptions and demos below.
+> [!NOTE]
+> Source is private (client and product work), but both are live — demos linked below.
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
@@ -93,24 +96,55 @@ Source is private, but these are live — descriptions and demos below.
 
 ## Tech
 
+**Languages & frontend**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Ember](https://img.shields.io/badge/Ember.js-E04E39?style=flat&logo=emberdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Testing & tooling**
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<details>
+<details open>
 <summary><b>Full skill breakdown</b></summary>
 
 <br>
@@ -119,11 +153,14 @@ Source is private, but these are live — descriptions and demos below.
 |---|---|
 | **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
 | **Frontend** | React.js, React Hooks, custom hooks, Next.js, Ember.js, SPAs, component architecture, reusable components, responsive & data-dense UI |
+| **Mobile** | React Native, Expo, cross-platform iOS & Android apps, app store release process |
 | **Design Systems** | Component libraries, design tokens, API design for components, versioning & documentation |
 | **State Management** | Redux, Zustand, MobX, React Context, Ember Data |
 | **Styling** | Tailwind CSS, SCSS, CSS-in-JS, responsive layout |
 | **AI & LLM** | OpenAI GPT APIs, prompt design, LLM-backed product features |
-| **Backend & APIs** | Node.js, RESTful APIs, Firebase (Authentication, RBAC, real-time data) |
+| **Backend & APIs** | Node.js, Express, RESTful APIs, authentication & RBAC, JWT, payment integrations (Razorpay, Stripe) |
+| **Databases & BaaS** | MongoDB (Mongoose), PostgreSQL, Supabase, Firebase (Authentication, RBAC, real-time data) |
+| **Cloud & DevOps** | AWS, Azure, Vercel, Docker, GitHub Actions, deployment pipelines |
 | **Testing & Quality** | Jest, Cypress, QUnit, TDD, cross-browser testing, code review standards |
 | **Performance** | Core Web Vitals, performance profiling, Lighthouse, code splitting, lazy loading, bundle optimisation |
 | **Accessibility** | WCAG 2.1 AA, keyboard and screen-reader support, accessibility audits |
@@ -134,7 +171,7 @@ Source is private, but these are live — descriptions and demos below.
 
 ---
 
-<details>
+<details open>
 <summary><b>Education, achievements & publications</b></summary>
 
 <br>
@@ -156,9 +193,17 @@ Source is private, but these are live — descriptions and demos below.
 
 ---
 
-### Freelance & agency work
+## Freelance & agency work
 
-I also design and build fast, SEO-friendly marketing sites and templates for clients — semantic HTML, strong Core Web Vitals, responsive from the start.
+Alongside senior frontend roles, I take on end-to-end client work — design through deployment.
+
+| | |
+|---|---|
+| **Full-stack web apps** | React and Next.js frontends on Node/Express APIs, with MongoDB, PostgreSQL or Supabase. Auth and RBAC, payment integrations, admin dashboards, file/media handling, deployment and CI. |
+| **Mobile apps — iOS & Android** | Cross-platform apps in React Native and Expo, from product design through App Store and Play Store release. |
+| **Marketing sites & templates** | Fast, SEO-friendly sites — semantic HTML, strong Core Web Vitals, responsive from the start. |
+| **Design systems for teams** | Component libraries, design tokens and documentation so a growing team ships consistently. |
+| **Performance & accessibility audits** | Core Web Vitals profiling, bundle analysis and WCAG 2.1 AA remediation on existing products. |
 
 ---
 
