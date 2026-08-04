@@ -69,7 +69,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 > [!TIP]
 > **Every project below is live.** Client sites, product work and open-source tooling — built for speed, semantic HTML and strong Core Web Vitals.
 
-### 🌐 Public repositories
+### 🌐 Recent works
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
@@ -209,6 +209,8 @@ Alongside senior frontend roles, I take on end-to-end client work — design thr
 ### Reach me
 
 [![Email](https://img.shields.io/badge/pranavvenkitesan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pranavvenkitesan@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_97431_56449-0F9D58?style=flat&logo=googlevoice&logoColor=white)](tel:+919743156449)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919743156449)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-venkidesan)
 
 Open to senior and lead frontend roles, and to selected freelance work.
