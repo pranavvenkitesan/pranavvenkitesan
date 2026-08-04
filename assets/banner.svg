@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Pranav Venkitesan — Senior Frontend Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#111a2b"/>
+      <stop offset="100%" stop-color="#0a1f2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3FCF8E"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#BFDBFE"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#3FCF8E" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#3FCF8E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="60" rx="320" ry="220" fill="url(#glowA)"/>
+  <ellipse cx="150" cy="290" rx="300" ry="200" fill="url(#glowB)"/>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="72" y="96" fill="#3FCF8E" font-size="15" font-weight="600" letter-spacing="4.5">SENIOR FRONTEND ENGINEER</text>
+    <text x="72" y="168" fill="url(#name)" font-size="60" font-weight="700" letter-spacing="-1.2">Pranav Venkitesan</text>
+    <text x="72" y="212" fill="#8FA3BF" font-size="19" font-weight="400">React · TypeScript · Design Systems · Performance · AI Product</text>
+    <text x="72" y="252" fill="#5C7290" font-size="15" font-weight="400">8+ years · Enterprise SaaS across Europe and India · Bengaluru, India</text>
+  </g>
+
+  <rect x="72" y="272" width="220" height="4" rx="2" fill="url(#accent)"/>
+</svg>

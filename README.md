@@ -1,7 +1,6 @@
-# Hi, I'm Pranav 👋
+<img src="./assets/banner.svg" alt="Pranav Venkitesan — Senior Frontend Engineer" width="100%">
 
-**Senior Frontend Engineer** — React · TypeScript · Design Systems · Performance · AI Product
-📍 Bengaluru, India
+### Hi, I'm Pranav 👋
 
 8+ years building scalable React and TypeScript applications for enterprise SaaS across Europe and India. I work at the intersection of design systems, performance engineering, accessibility, and AI-powered product features. Track record: Core Web Vitals improved 80%, manual workflows cut 60%, frontend standards and mentoring across multiple product teams.
 
@@ -65,7 +64,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 ---
 
-![Projects](https://img.shields.io/badge/%F0%9F%9A%80%20PROJECTS-Live%20demos%20%C2%B7%20full%20stack%20%C2%B7%20client%20work-0A66C2?style=for-the-badge&labelColor=0D1117)
+<img src="./assets/section-projects.svg" alt="Projects" width="100%">
 
 > [!TIP]
 > **Every project below is live.** Client sites, product work and open-source tooling — built for speed, semantic HTML and strong Core Web Vitals.
@@ -158,7 +157,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 | **State Management** | Redux, Zustand, MobX, React Context, Ember Data |
 | **Styling** | Tailwind CSS, SCSS, CSS-in-JS, responsive layout |
 | **AI & LLM** | OpenAI GPT APIs, prompt design, LLM-backed product features |
-| **Backend & APIs** | Node.js, Express, RESTful APIs, authentication & RBAC, JWT, payment integrations (Razorpay, Stripe) |
+| **Backend & APIs** | Node.js, Express, RESTful APIs, authentication & RBAC, JWT, payment integration (Razorpay) |
 | **Databases & BaaS** | MongoDB (Mongoose), PostgreSQL, Supabase, Firebase (Authentication, RBAC, real-time data) |
 | **Cloud & DevOps** | AWS, Azure, Vercel, Docker, GitHub Actions, deployment pipelines |
 | **Testing & Quality** | Jest, Cypress, QUnit, TDD, cross-browser testing, code review standards |
