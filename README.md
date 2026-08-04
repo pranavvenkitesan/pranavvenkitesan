@@ -73,12 +73,12 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Ember Elements** | Open-source TypeScript UI toolkit for Ember.js, built on Blueprint for data-dense enterprise interfaces. Typed public APIs, accessible components, versioned npm releases. | `TypeScript` `Ember.js` `Blueprint` `Storybook` | [Code](https://github.com/ember-elements/ember-elements) · [Demo](https://ember-elements.github.io/ember-elements/) |
 | **KavalaTech** (Dubase Studio) | Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/dubase-studio) · [Demo](https://pranavvenkitesan.github.io/dubase-studio/) |
 | **OptiSpire** | SEO agency website template — conversion-focused landing structure, service pages and blog. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/OptiSpire-SEO-agency-template) · [Demo](https://pranavvenkitesan.github.io/OptiSpire-SEO-agency-template/) |
 | **Orivex** | Portfolio / studio website template with a project-led layout. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/orivex-web) · [Demo](https://pranavvenkitesan.github.io/orivex-web/) |
 | **Amaterasu Health** | Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/amaterasu-health) · [Demo](https://pranavvenkitesan.github.io/amaterasu-health/) |
 | **Liag** | Interior design studio site — editorial layout, image-led project showcase. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/liag-interior-design-studio) |
+| **Ember Elements** | Open-source TypeScript UI toolkit for Ember.js, built on Blueprint for data-dense enterprise interfaces. Typed public APIs, accessible components, versioned npm releases. | `TypeScript` `Ember.js` `Blueprint` `Storybook` | [Code](https://github.com/ember-elements/ember-elements) · [Demo](https://ember-elements.github.io/ember-elements/) |
 | **Hydroflow** | Brand site for a beverage product — bold typography, single-scroll narrative. | `HTML` `CSS` | [Code](https://github.com/pranavvenkitesan/hydro-) · [Demo](https://pranavvenkitesan.github.io/hydro-/) |
 
 ### 🔒 Private work
