@@ -22,7 +22,7 @@ Creator and maintainer of **[Ember Elements](https://github.com/ember-elements/e
 ## Experience
 
 ### Zenloop GmbH · Berlin, Germany
-**Senior Frontend Engineer** · Jul 2022 – Mar 2026
+**Senior Frontend Engineer** · Jul 2022 – Present
 <sub>Customer-experience analytics platform for Fortune 500 clients · React, TypeScript · three delivery squads</sub>
 
 - Led frontend architecture, feature delivery and code review across three squads, refactoring core React and TypeScript modules and partnering with product, design and backend engineers to ship customer-facing analytics features
@@ -61,6 +61,24 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 - Designed the component API surface and TypeScript types, authored the usage documentation, and ran the versioned npm release process end to end
 - Grew to **100+ GitHub stars** with adoption by several enterprise teams, supporting users through issue triage and community requests
+
+🔗 [Docs & demo](https://ember-elements.github.io/ember-elements/) · [Storybook](https://64f3486d17c24063fe86105d-zslyevuhcj.chromatic.com/) · `TypeScript` `Ember.js` `Blueprint` `Storybook` `npm`
+
+---
+
+## Projects
+
+Client sites, templates and product work — built for speed, semantic HTML and strong Core Web Vitals.
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Ember Elements** | Open-source TypeScript UI toolkit for Ember.js, built on Blueprint for data-dense enterprise interfaces. Typed public APIs, accessible components, versioned npm releases. | `TypeScript` `Ember.js` `Blueprint` `Storybook` | [Code](https://github.com/ember-elements/ember-elements) · [Demo](https://ember-elements.github.io/ember-elements/) |
+| **KavalaTech** (Dubase Studio) | Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/dubase-studio) · [Demo](https://pranavvenkitesan.github.io/dubase-studio/) |
+| **OptiSpire** | SEO agency website template — conversion-focused landing structure, service pages and blog. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/OptiSpire-SEO-agency-template) · [Demo](https://pranavvenkitesan.github.io/OptiSpire-SEO-agency-template/) |
+| **Orivex** | Portfolio / studio website template with a project-led layout. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/orivex-web) · [Demo](https://pranavvenkitesan.github.io/orivex-web/) |
+| **Amaterasu Health** | Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/amaterasu-health) · [Demo](https://pranavvenkitesan.github.io/amaterasu-health/) |
+| **Liag** | Interior design studio site — editorial layout, image-led project showcase. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/liag-interior-design-studio) |
+| **Hydroflow** | Brand site for a beverage product — bold typography, single-scroll narrative. | `HTML` `CSS` | [Code](https://github.com/pranavvenkitesan/hydro-) · [Demo](https://pranavvenkitesan.github.io/hydro-/) |
 
 ---
 
