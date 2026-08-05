@@ -12,7 +12,7 @@ Beyond product roles, I take client work end to end — full-stack web apps, iOS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/pranav-venkidesan)
 
 > [!IMPORTANT]
-> 📍 **Bengaluru, India** — open to remote and hybrid · 💼 **Available** for senior/lead frontend roles and freelance projects · ⏱️ Usually replies within a day
+> 📍 **Bengaluru, India** — open to onsite or remote and hybrid · 💼 **Available** for senior/lead frontend roles and freelance projects · ⏱️ Usually replies within a day
 
 ---
 
