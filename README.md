@@ -82,7 +82,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **KavalaTech** (Dubase Studio) | Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/dubase-studio) · [Demo](https://pranavvenkitesan.github.io/dubase-studio/) |
+| **KavalaTech** (Dubase Studio) | Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/kavalatech) · [Live](https://kavalatech.com/) |
 | **OptiSpire** | SEO agency website template — conversion-focused landing structure, service pages and blog. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/OptiSpire-SEO-agency-template) · [Demo](https://pranavvenkitesan.github.io/OptiSpire-SEO-agency-template/) |
 | **Orivex** | Portfolio / studio website template with a project-led layout. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/orivex-web) · [Demo](https://pranavvenkitesan.github.io/orivex-web/) |
 | **Amaterasu Health** | Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/amaterasu-health) · [Demo](https://pranavvenkitesan.github.io/amaterasu-health/) |
