@@ -91,7 +91,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
   </thead>
   <tbody>
     <tr>
-      <td><strong>KavalaTech</strong> (Dubase Studio)</td>
+      <td><strong>KavalaTech Solutions</strong></td>
       <td>Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections.</td>
       <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
       <td><a href="https://kavalatech.com/">Live URL</a></td>
