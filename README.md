@@ -80,25 +80,73 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
 
 ### 🌐 Recent works
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **KavalaTech** (Dubase Studio) | Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/kavalatech) · [Live](https://kavalatech.com/) |
-| **OptiSpire** | SEO agency website template — conversion-focused landing structure, service pages and blog. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/OptiSpire-SEO-agency-template) · [Demo](https://pranavvenkitesan.github.io/OptiSpire-SEO-agency-template/) |
-| **Orivex** | Portfolio / studio website template with a project-led layout. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/orivex-web) · [Demo](https://pranavvenkitesan.github.io/orivex-web/) |
-| **Amaterasu Health** | Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/amaterasu-health) · [Demo](https://pranavvenkitesan.github.io/amaterasu-health/) |
-| **Liag** | Interior design studio site — editorial layout, image-led project showcase. | `HTML` `CSS` `JavaScript` | [Code](https://github.com/pranavvenkitesan/liag-interior-design-studio) |
-| **Ember Elements** | Open-source TypeScript UI toolkit for Ember.js, built on Blueprint for data-dense enterprise interfaces. Typed public APIs, accessible components, versioned npm releases. | `TypeScript` `Ember.js` `Blueprint` `Storybook` | [Code](https://github.com/ember-elements/ember-elements) · [Demo](https://ember-elements.github.io/ember-elements/) |
-| **Hydroflow** | Brand site for a beverage product — bold typography, single-scroll narrative. | `HTML` `CSS` | [Code](https://github.com/pranavvenkitesan/hydro-) · [Demo](https://pranavvenkitesan.github.io/hydro-/) |
+<table>
+  <thead>
+    <tr>
+      <th width="14%">Project</th>
+      <th width="48%">What it is</th>
+      <th width="23%">Stack</th>
+      <th width="15%">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>KavalaTech</strong> (Dubase Studio)</td>
+      <td>Full agency site for a web & mobile development studio in Bangalore & Kerala — services, projects, products and blog sections.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://kavalatech.com/">Live URL</a></td>
+    </tr>
+    <tr>
+      <td><strong>Tarabyaji</strong></td>
+      <td>Full-stack online jewellery store with product collections, variant swatches, wishlist, compare, cart with free-shipping thresholds, Razorpay checkout, and a separate admin panel for catalogue, orders and analytics.</td>
+      <td><code>Next.js</code> <code>React</code> <code>Redux Toolkit</code> <code>SCSS</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code> <code>Razorpay</code> <code>Cloudinary</code> <code>Recharts</code></td>
+      <td><a href="https://tarabyaji.com/">Live URL</a></td>
+    </tr>
+    <tr>
+      <td><strong>OptiSpire</strong></td>
+      <td>SEO agency website template — conversion-focused landing structure, service pages and blog.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://github.com/pranavvenkitesan/OptiSpire-SEO-agency-template">Code</a> · <a href="https://pranavvenkitesan.github.io/OptiSpire-SEO-agency-template/">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Orivex</strong></td>
+      <td>Portfolio / studio website template with a project-led layout.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://github.com/pranavvenkitesan/orivex-web">Code</a> · <a href="https://pranavvenkitesan.github.io/orivex-web/">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Amaterasu Health</strong></td>
+      <td>Marketing site for a mental-health platform — a cognition lab working at the intersection of technology and nature.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://github.com/pranavvenkitesan/amaterasu-health">Code</a> · <a href="https://pranavvenkitesan.github.io/amaterasu-health/">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Liag</strong></td>
+      <td>Interior design studio site — editorial layout, image-led project showcase.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://github.com/pranavvenkitesan/liag-interior-design-studio">Code</a> . <a href="https://pranavvenkitesan.github.io/liag-interior-design-studio">Demo</a> </td>
+    </tr>
+    <tr>
+      <td><strong>Ember Elements</strong></td>
+      <td>Open-source TypeScript UI toolkit for Ember.js, built on Blueprint for data-dense enterprise interfaces. Typed public APIs, accessible components, versioned npm releases.</td>
+      <td><code>TypeScript</code> <code>Ember.js</code> <code>Blueprint</code> <code>Storybook</code></td>
+      <td><a href="https://github.com/ember-elements/ember-elements">Code</a> · <a href="https://ember-elements.github.io/ember-elements/">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Hydroflow</strong></td>
+      <td>Brand site for a beverage product — bold typography, single-scroll narrative.</td>
+      <td><code>HTML</code> <code>CSS</code></td>
+      <td><a href="https://github.com/pranavvenkitesan/hydro-">Code</a> · <a href="https://pranavvenkitesan.github.io/hydro-/">Demo</a></td>
+    </tr>
+  </tbody>
+</table>                                        |
 
 ### 🔒 Private work
 
-> [!NOTE]
-> Source is private (client and product work), but both are live — demos linked below.
+| Project        | What it is                                                                                                                                                                                                                                                                                         | Stack                                       | Links                                                                                                 |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 🔒 **ReplyAI** | AI growth and communication platform for local businesses (a KavalaTech product). Replaces six disconnected tools with one workspace: AI-drafted Google review replies, WhatsApp enquiry threads, bookings, marketing content and local SEO monitoring — owner approves before anything publishes. | `React` `TypeScript` `Node.js` `OpenAI API` | [Product page](https://kavalatech.com/products/replyai) |
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| 🔒 **Tarabyaji** | Full-stack online jewellery store. Storefront with collections, variant swatches, wishlist, compare, cart with free-shipping thresholds and Razorpay checkout — plus a separate admin panel for catalogue, orders and analytics. | `Next.js` `React` `Redux Toolkit` `SCSS` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary` `Recharts` | [Live site](https://jewellery-online-store-fronend.vercel.app/) · Private repo |
-| 🔒 **ReplyAI** | AI growth and communication platform for local businesses (a KavalaTech product). Replaces six disconnected tools with one workspace: AI-drafted Google review replies, WhatsApp enquiry threads, bookings, marketing content and local SEO monitoring — owner approves before anything publishes. | `React` `TypeScript` `Node.js` `OpenAI API` | [Product page](https://pranavvenkitesan.github.io/dubase-studio/products/replyai.html) · Private repo |
 
 ---
 
