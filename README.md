@@ -10,6 +10,8 @@ Beyond product roles, I take client work end to end — full-stack web apps, iOS
 [![Phone](https://img.shields.io/badge/+91_97431_56449-0F9D58?style=for-the-badge&logo=googlevoice&logoColor=white&labelColor=0D1117)](tel:+919743156449)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117)](https://wa.me/919743156449)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/pranav-venkidesan)
+[![View CV](https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pranavvenkitesan/pranavvenkitesan/blob/main/Pranav%20venkitesan%20FrontEnd%20Engineer.pdf)
+
 
 > [!IMPORTANT]
 > 📍 **Bengaluru, India** — open to onsite or remote and hybrid · 💼 **Available** for senior/lead frontend roles and freelance projects · ⏱️ Usually replies within a day
