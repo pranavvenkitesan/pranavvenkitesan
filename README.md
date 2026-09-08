@@ -105,6 +105,12 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
       <td><a href="https://tarabyaji.com/">Live URL</a></td>
     </tr>
     <tr>
+      <td><strong>KavalaKitchen</strong></td>
+      <td>Full-stack Kerala food e-commerce storefront featuring traditional snacks, sweets, pickles, masalas and filter coffee, with product variants, wishlist, search, cart, custom Kerala boxes, hampers and a responsive storefront experience.</td>
+      <td><code>Next.js</code> <code>React Tailwind CSS</code> <code>Express</code> <code>TypeScript</code> <code>MongoDB</code> <code>Capacitor</code></td>
+      <td><a href="https://lightpink-finch-488662.hostingersite.com/">Live URL</a></td>
+    </tr>
+    <tr>
       <td><strong>OptiSpire</strong></td>
       <td>SEO agency website template — conversion-focused landing structure, service pages and blog.</td>
       <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
