@@ -110,6 +110,12 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
       <td><code>Next.js</code> <code>React Tailwind CSS</code> <code>Express</code> <code>TypeScript</code> <code>MongoDB</code> <code>Capacitor</code></td>
       <td><a href="https://lightpink-finch-488662.hostingersite.com/">Live URL</a></td>
     </tr>
+     <tr>
+      <td><strong>Kabani Riverside</strong></td>
+      <td>A website for a riverside farm stay in Wayanad, with a booking system that handles direct reservations and Airbnb bookings together.</td>
+      <td><code>Next.js</code> <code>React Tailwind CSS</code> <code>TypeScript</code> <code>MongoDB</code> </td>
+      <td><a href="https://lightyellow-porpoise-707990.hostingersite.com/">Live URL</a></td>
+    </tr>
     <tr>
       <td><strong>OptiSpire</strong></td>
       <td>SEO agency website template — conversion-focused landing structure, service pages and blog.</td>
