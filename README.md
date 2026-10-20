@@ -114,7 +114,7 @@ An open-source TypeScript component library for Ember.js, built on Blueprint and
       <td><strong>Kabani Riverside</strong></td>
       <td>A website for a riverside farm stay in Wayanad, with a booking system that handles direct reservations and Airbnb bookings together.</td>
       <td><code>Next.js</code> <code>React Tailwind CSS</code> <code>TypeScript</code> <code>MongoDB</code> </td>
-      <td><a href="https://lightyellow-porpoise-707990.hostingersite.com/">Live URL</a></td>
+      <td><a href="https://royalblue-badger-637524.hostingersite.com">Live URL</a></td>
     </tr>
     <tr>
       <td><strong>OptiSpire</strong></td>
